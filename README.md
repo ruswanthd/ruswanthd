@@ -1,6 +1,6 @@
-<!-- Stylish Header Banner -->
+<!-- Advanced Cyber Header -->
 <p align="center">
-  <img src="https://github.com/ruswanthd/ruswanthd/blob/main/assets/header.gif" alt="Hi, I'm Ruswanth" width="100%"/>
+  <img src="https://i.ibb.co/qDn3S1t/cyberpunk-dev.gif" alt="Ruswanth | AI ML Enthusiast" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hey, I'm Ruswanth</h1>
@@ -45,9 +45,9 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Square)
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="400" height="400"/>
 </p>
 
 ---
@@ -66,13 +66,6 @@
 
 ---
 
-## 🎶 Now Playing on Spotify
-<p align="center">
-  <img src="https://novatorem-ruswanthd.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
-</p>
-
----
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
@@ -84,7 +77,7 @@
   <img src="https://visitcount.itsvg.in/api?id=ruswanthd&icon=2&color=6" />
 </p>
 
-<!-- Footer Banner -->
+<!-- Advanced Footer -->
 <p align="center">
-  <img src="https://github.com/ruswanthd/ruswanthd/blob/main/assets/footer.gif" width="100%"/>
+  <img src="https://i.ibb.co/6XJPjYR/cyber-footer.gif" width="100%"/>
 </p>
