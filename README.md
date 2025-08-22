@@ -45,9 +45,9 @@
 
 ---
 
-## 🐍 Contribution Snake (Square)
+## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="400" height="400"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
