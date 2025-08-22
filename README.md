@@ -14,6 +14,9 @@
 - 🤝 Open for **collaborations** on exciting projects  
 - ⚡ Loves **building, automating, and optimizing systems**  
 
+<p align="right">
+  <img src="https://media.tenor.com/k3tVtuw8F8oAAAAd/ngoding-mulu.gif" width="300"/>
+</p>
 ---
 
 ## 🌐 Connect With Me
